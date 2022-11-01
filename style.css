@@ -1,0 +1,19 @@
+#baslik {
+    color: red;
+}
+
+body {
+    text-align: center;
+}
+
+#altBaslikOzellik {
+    color: red;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+ol {
+    list-style-position: inside;
+}
